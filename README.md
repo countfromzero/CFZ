@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgflip.com/1wuoi7.jpg" alt="Mitsuke chatta!"/>
+  <img src="https://bestanimations.com/Earth&Space/solar-planetary-system-animation-4.gif" alt=""/>
 </p>
