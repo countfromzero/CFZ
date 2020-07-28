@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/DBfYJqH5AokgM/giphy.gif" alt="Mitsuke chatta!"/>
+  <img src="https://i.imgflip.com/1wuoi7.jpg" alt="Mitsuke chatta!"/>
 </p>
